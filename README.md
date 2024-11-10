@@ -1,5 +1,7 @@
 #  __🌿TomatoLeaf-AI-Classifier🌿__
 
+**This link to my chanell there is files from this repository** 
+https://t.me/TomatoLeafAI
 
 TomatoLeaf Diagnostics is a machine learning project focused on image classification to automatically detect diseases in tomato leaves. This tool is designed to help farmers and agronomists quickly diagnose plant diseases, enabling timely interventions to protect crops. The project is built using the FastAI library and focuses on analyzing images of tomato leaves to classify them by disease type or as  **"healthy."**
 
