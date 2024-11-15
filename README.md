@@ -1,3 +1,4 @@
+## I used my own Telegram channel to share the model because its weight exceeds 25 MB.
 #  __🌿TomatoLeaf-AI-Classifier🌿__
 
 **This link to my chanell there is files from this repository** 
